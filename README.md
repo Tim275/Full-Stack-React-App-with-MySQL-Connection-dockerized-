@@ -2,6 +2,7 @@
 
 Purpose: The frontend application serves craftsmen for managing their products. They can add new products, edit existing ones, and check inventory.
 Features: Product list, Add/Edit products, Inventory monitoring.
+<p> </p>
   <br> Tool: **React**
 
 ### Backend Application:
