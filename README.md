@@ -11,7 +11,9 @@ Features: Product list, Add/Edit products, Inventory monitoring.
 
 Purpose: The backend system allows for product data management and provides an API for the frontend application.
 Features: CRUD operations for products, connection to the database for product and inventory data.
-Tool: <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
+
+Tool: </br>
+<a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
 
 ### Database:
 
