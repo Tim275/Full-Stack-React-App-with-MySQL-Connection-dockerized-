@@ -1,4 +1,4 @@
-### Frontend Application:
+# Frontend Application:
 
 Purpose: The frontend application serves craftsmen for managing their products. They can add new products, edit existing ones, and check inventory.
 Features: Product list, Add/Edit products, Inventory monitoring.
