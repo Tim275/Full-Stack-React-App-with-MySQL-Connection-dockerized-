@@ -4,7 +4,7 @@ Purpose: The frontend application serves craftsmen for managing their products. 
 Features: Product list, Add/Edit products, Inventory monitoring.
 <p> </p>
 Tool: </br>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></a>
 </br>
 
 ### Backend Application:
