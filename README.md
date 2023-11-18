@@ -6,6 +6,7 @@ Features: Product list, Add/Edit products, Inventory monitoring.
 Tool: </br>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></a>
 </br>
+<p> </p>
 
 ### Backend Application:
 
@@ -15,13 +16,18 @@ Features: CRUD operations for products, connection to the database for product a
 Tool: </br>
 <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
 </br>
+<p> </p>
+
 ### Database:
 
 **Purpose**: The database stores product information and inventory data.
 Structure: A table with product information (name, description, price) and inventory data.
-<p> </p> 
 
-<br> Tool: **SQL**
+Tool: </br>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></a>
+</br>
+<p> </p>
+
 
 ### Dockerization:
 
