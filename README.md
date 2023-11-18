@@ -33,3 +33,8 @@ Tool: </br>
 
 Purpose: Docker containers allow for easy deployment and scaling of the application.
 Containers: Separate containers for frontend, backend, and the database.
+
+Tool: </br>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
+</br>
+<p> </p>
