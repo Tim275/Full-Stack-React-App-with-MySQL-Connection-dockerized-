@@ -13,7 +13,9 @@ Purpose: The backend system allows for product data management and provides an A
 Features: CRUD operations for products, connection to the database for product and inventory data.
  
  <p> </p>
-  <br>   Tool: <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
+  <br>   Tool: 
+   <p> </p>
+  <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
 
 
 
