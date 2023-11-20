@@ -38,3 +38,29 @@ Tool: </br>
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 </br>
 <p> </p>
+
+
+
+
+
+## Application Dockerized
+
+![image](https://github.com/Tim275/Full-Stack-React-App-with-MySQL-Connection-dockerized-/assets/117520669/5ddcf3b1-d1c0-4d42-9ae3-183dead02998)
+
+
+# Frontend
+
+![image](https://github.com/Tim275/Full-Stack-React-App-with-MySQL-Connection-dockerized-/assets/117520669/5717b7ea-849c-436d-84f5-24eafedf5ecb)
+
+
+# Backend
+![image](https://github.com/Tim275/Full-Stack-React-App-with-MySQL-Connection-dockerized-/assets/117520669/0c465749-15cc-4c49-9314-29e35ca98452)
+
+
+
+
+# Database
+![image](https://github.com/Tim275/Full-Stack-React-App-with-MySQL-Connection-dockerized-/assets/117520669/8e88ff3d-9536-4746-8786-f4a7904ff8a4)
+
+
+
