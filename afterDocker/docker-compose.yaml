@@ -5,7 +5,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - REACT_APP_BACKEND_URL=  http://my-backend:3001
+      - REACT_APP_BACKEND_URL=http://localhost:3001/api/products
 
   my-backend:
     build: ./my-backend
@@ -19,11 +19,11 @@ services:
     volumes:
       - db_data:/var/lib/mysql
     environment:
-      - MYSQL_ROOT_PASSWORD=rootpassword
-      - MYSQL_HOST=my-database
-      - MYSQL_USER=username
-      - MYSQL_PASSWORD=password
-      - MYSQL_DATABASE=my_database
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_HOST=${MYSQL_HOST}
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
